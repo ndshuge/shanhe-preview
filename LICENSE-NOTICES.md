@@ -4,3 +4,5 @@ Pexels landscape photography is used only for modern atmosphere; each photograph
 16 historical art reproductions and 3 illustrative history maps have item-level sources and licensing notes in the H5 artwork library.
 Historical art public noncommercial permission is reported by the user; specific email scope was not independently inspected.
 Natural Earth modern land geometry is public-domain; not a verified 1930s military route.
+ 'Hymn To The Dawn' by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au
+Track source: https://www.scottbuckley.com.au/library/hymn-to-the-dawn/ ; license: https://creativecommons.org/licenses/by/4.0/
