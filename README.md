@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./shanhe-icon.svg" alt="山河为证" width="100"/>
+<img src="./favicon.svg" alt="山河为证" width="100"/>
 
 # 山河为证
 ### 一段长征，不止一条历史征途
@@ -17,6 +17,17 @@
 > 跟随时间与事件，穿过1934—1936年的山河，在历史资料、二维画面与触摸互动之间，重新认识长征。
 
 ![《山河为证》序章场景](./preview-hero.png)
+
+## 从哪里开始参观
+
+| 入口 | 内容 |
+| --- | --- |
+| [进入序章](https://ndshuge.github.io/shanhe-preview/) | 从地图与历史叙事开始 |
+| [七幕历史目录](https://ndshuge.github.io/shanhe-preview/?scene=prologue%23chapter-directory) | 按阶段浏览长征历程 |
+| [美术图册](https://ndshuge.github.io/shanhe-preview/?scene=artwork-library) | 查看收录的历史图像与作品画面 |
+| [素材授权说明](LICENSE-NOTICES.md) | 查询音乐、图片和第三方素材来源 |
+
+<sub>仅整理展览介绍与 GitHub README；互动展览网页及其资源包在本轮保持不变。</sub>
 
 ## 作品看点
 
